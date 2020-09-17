@@ -221,6 +221,8 @@ h4{
 }
 
 
+ 
+
 @media only screen and (max-width:900px){
     section{
         align-self: flex-start;
@@ -293,7 +295,7 @@ input{
 }
 }
 
-@media (max-width: 350px){
+@media (max-width: 360px){
     input{
         width: 275px;
     }
